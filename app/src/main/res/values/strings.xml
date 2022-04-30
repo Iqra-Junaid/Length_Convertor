@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Length Convertor</string>
+    <string name="number"><![CDATA[Enter Number : ]]></string>
+    <string name="from"><![CDATA[From : ]]></string>
+    <string name="to"><![CDATA[To : ]]></string>
+    <string name="Convert">Convert</string>
+    <string name="cm">cm</string>
+    <string name="m">m</string>
+    <string name="eg">e.g. 45</string>
+</resources>
